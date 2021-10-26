@@ -7,6 +7,16 @@ This is a command line app used to calculate the number of vacation days for a l
 
 This was developed using PHP 7.4 on MacOS
 
+## Installation
+
+It's required to have php and preferrably 7.4 and composer
+
+To install libraries(PHPUnit):
+
+```bash
+composer install
+```
+
 ## Usage
 
 It's required to have php and preferrably 7.4.
